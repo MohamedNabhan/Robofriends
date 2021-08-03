@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MohamedNabhan/Robofriends/static/css/main.93224df8.chunk.css",
-    "main.js": "/MohamedNabhan/Robofriends/static/js/main.32bd2633.chunk.js",
-    "main.js.map": "/MohamedNabhan/Robofriends/static/js/main.32bd2633.chunk.js.map",
-    "runtime-main.js": "/MohamedNabhan/Robofriends/static/js/runtime-main.b5c5ba8e.js",
-    "runtime-main.js.map": "/MohamedNabhan/Robofriends/static/js/runtime-main.b5c5ba8e.js.map",
-    "static/css/2.4be38407.chunk.css": "/MohamedNabhan/Robofriends/static/css/2.4be38407.chunk.css",
-    "static/js/2.4ebcc478.chunk.js": "/MohamedNabhan/Robofriends/static/js/2.4ebcc478.chunk.js",
-    "static/js/2.4ebcc478.chunk.js.map": "/MohamedNabhan/Robofriends/static/js/2.4ebcc478.chunk.js.map",
-    "index.html": "/MohamedNabhan/Robofriends/index.html",
-    "static/css/2.4be38407.chunk.css.map": "/MohamedNabhan/Robofriends/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.93224df8.chunk.css.map": "/MohamedNabhan/Robofriends/static/css/main.93224df8.chunk.css.map",
-    "static/js/2.4ebcc478.chunk.js.LICENSE.txt": "/MohamedNabhan/Robofriends/static/js/2.4ebcc478.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.93224df8.chunk.css",
+    "main.js": "./static/js/main.32bd2633.chunk.js",
+    "main.js.map": "./static/js/main.32bd2633.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5f17cd99.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5f17cd99.js.map",
+    "static/css/2.4be38407.chunk.css": "./static/css/2.4be38407.chunk.css",
+    "static/js/2.4ebcc478.chunk.js": "./static/js/2.4ebcc478.chunk.js",
+    "static/js/2.4ebcc478.chunk.js.map": "./static/js/2.4ebcc478.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.4be38407.chunk.css.map": "./static/css/2.4be38407.chunk.css.map",
+    "static/css/main.93224df8.chunk.css.map": "./static/css/main.93224df8.chunk.css.map",
+    "static/js/2.4ebcc478.chunk.js.LICENSE.txt": "./static/js/2.4ebcc478.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5c5ba8e.js",
+    "static/js/runtime-main.5f17cd99.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.4ebcc478.chunk.js",
     "static/css/main.93224df8.chunk.css",
